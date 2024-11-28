@@ -1,7 +1,7 @@
 # Desarrollo de Actividades
 
 # Clase Deque
-Este proyecto implementa una clase `Deque` en Python, que permite manipular elementos en una doble cola (deque) utilizando operaciones para agregar y remover elementos tanto al inicio como al final.
+La clase `Deque` en Python, permite manipular elementos en una doble cola (deque) utilizando operaciones para agregar y remover elementos tanto al inicio como al final.
 
 ## Implementación
 La clase `Deque` contiene los siguientes métodos:
